@@ -1,0 +1,77 @@
+{
+  "settings": "Settings",
+  "theme": "Theme",
+  "chooseTheme": "Choose theme",
+  "light": "Light",
+  "dark": "Dark",
+  "systemDefault": "System default",
+  "language": "Language",
+  "chooseLanguage": "Choose language",
+  "cancel": "Cancel",
+  "settingsReset": "Reset",
+  "about": "About",
+  "prompt": "Prompt",
+  "confirm": "Confirm",
+  "remove": "Remove",
+  "removeKeyNotice": "This API key will immediately be removed.",
+  "createdDate": "Created: {date}",
+  "@createdDate": {
+    "placeholders": {
+      "date": {
+        "type": "DateTime",
+        "format": "yMMMd",
+        "isCustomDateFormat": "true",
+        "description": "The API key created date."
+      }
+    }
+  },
+  "default_": "Default",
+  "duplicateApiKey": "Duplicate API key!",
+  "appDescription": "An unofficial open-source ChatGPT application",
+  "resetToDefault": "Reset to default",
+  "haoChatIsPoweredByOpenAI": "HaoChat is powered by OpenAI",
+  "storeAPIkeyNotice": "Please provide an OpenAI API key. This key will only be stored locally in your app cache.",
+  "enterYourOpenAiApiKey": "Enter your OpenAI API key",
+  "done": "Done",
+  "navigateTo": "Navigate to",
+  "logInAndClick": "Log in and click \"+ Create new secret key\"",
+  "newChat": "New chat",
+  "deleteConversations": "Delete conversations",
+  "confirmDelete": "Confirm delete",
+  "selectAll": "Select all",
+  "delete": "Delete",
+  "home": "Home",
+  "shortcuts": "Shortcuts",
+  "sendWith": "Send with {shortcut}",
+  "@sendWith": {
+    "placeholders": {
+      "shortcut": {
+        "type": "String"
+      }
+    }
+  },
+  "httpProxy": "HTTP Proxy",
+  "enableProxy": "Enable proxy",
+  "hostName": "Host name",
+  "portNumber": "Port number",
+  "resume": "Resume",
+  "systemPrompt": "System prompt",
+  "retry": "Retry",
+  "copied": "Copied",
+  "defaultSystemPrompt": "You are a helpful assistant.",
+  "systemPromptRecords": "System prompt records",
+
+  "haoChat": "HaoChat",
+  "openAI": "OpenAI",
+  "chatGPT": "ChatGPT",
+  "gpt35turbo": "GPT-3.5-Turbo",
+  "langEnglish": "English",
+  "langChinese": "简体中文",
+  "gpt3": "GPT-3",
+  "model": "Model",
+  "temperature": "Temperature",
+  "maximumLength": "Maximum length",
+  "topP": "Top P",
+  "frequencyPenalty": "Frequency penalty",
+  "presencePenalty": "Presence penalty"
+}
