@@ -26,18 +26,17 @@ api_key: 'YOUR-API-KEY'
 ```
 For security reasons, I cannot upload my **openai.yaml**.
 
-## Under development
-- [x] GPT-4
-
-## Tips
-Set the task or role of the AI in this **System prompt** input field.  
-For example: You are a helpful assistant that translates Chinese to English to.
-
-![](https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/setsystem01.jpg) ![](https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/setsystem02.jpg)
 
 ## Screenshots
 <Table>
-  
+    <tr>
+        <td width="50%">
+            <img src="https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/screenshot04.jpg"/>
+        </td>
+        <td width="50%">
+            <img src="https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/screenshot03.jpg"/>
+        </td>
+    </tr>
     <tr>
         <td width="50%">
             <img src="https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/screenshot01.jpg"/>
@@ -79,3 +78,4 @@ For example: You are a helpful assistant that translates Chinese to English to.
         </td>
     </tr>
 </Table>
+
