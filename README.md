@@ -1,11 +1,7 @@
-English | [简体中文](README-zh-CN.md)
 
-# HaoChat
 
-An unofficial ChatGPT application developed with Flutter.  
-If this repository has been helpful to you, please support us by giving it a star!
+# Text Generator App Using GPT-4.0 And Flutter
 
-<img src="https://github.com/conghaonet/hao_chatgpt/raw/master/screenshots/flutter_logo.png" height="40"/>&emsp;&emsp;<img src="https://github.com/conghaonet/hao_chatgpt/raw/master/screenshots/openai_logo.png" height="40"/>
 
 ## Supported models
 * [gpt-3.5-turbo](https://platform.openai.com/docs/models/gpt-3-5)
@@ -41,14 +37,7 @@ For example: You are a helpful assistant that translates Chinese to English to.
 
 ## Screenshots
 <Table>
-    <tr>
-        <td width="50%">
-            <img src="https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/screenshot04.jpg"/>
-        </td>
-        <td width="50%">
-            <img src="https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/screenshot03.jpg"/>
-        </td>
-    </tr>
+  
     <tr>
         <td width="50%">
             <img src="https://github.com/conghaonet/hao_chatgpt/blob/master/screenshots/en/screenshot01.jpg"/>
